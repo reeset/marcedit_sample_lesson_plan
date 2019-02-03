@@ -9,7 +9,7 @@ Content for this Sample Lesson plan is being made available via the Unlicense.  
 
 |Time | Title | Description |
 | --- | ---   | ---         |
-|     | [Setup](https://github.com/reeset/marcedit_sample_lesson_plan/blob/master/setup.pdf) | Download files required for this sample lesson plan |
+|     | Setup [![alt text](https://github.com/reeset/marcedit_sample_lesson_plan/blob/master/images/docx.png "Download Docx Version")](https://github.com/reeset/marcedit_sample_lesson_plan/blob/master/docx/setup.docx) [![alt text](https://github.com/reeset/marcedit_sample_lesson_plan/blob/master/images/pdf.png "Download PDF Version")](https://github.com/reeset/marcedit_sample_lesson_plan/blob/master/pdf/setup.pdf) | Download files required for this sample lesson plan |
 |     | 1. [Introduction to MarcEdit](https://github.com/reeset/marcedit_sample_lesson_plan/blob/master/Introduction2marcedit.pdf) | So what exactly is MarcEdit and why would I want to use it? |
 |     | 2. Understanding MarcEdit's Settings | Understand how MarcEdit's settings impact how the application works with data |
 |     | 3. Working with my first MARC Record | I've got a set of records from my vendor...now what. Learn how to make and break records for edit. Learn what file types MarcEdit supports  |
