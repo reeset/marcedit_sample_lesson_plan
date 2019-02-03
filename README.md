@@ -6,6 +6,7 @@ Content for this Sample Lesson plan is being made available via the Unlicense.  
 
 
 # Schedule
+[Download All](https://github.com/reeset/marcedit_sample_lesson_plan/archive/master.zip)
 
 |Time | Title | Description |
 | --- | ---   | ---         |
